@@ -1,5 +1,8 @@
 #usr/bin/env/python
 
+## This program is for a 2D Monte Carlo simulation of two species (peptides
+## and PEG) on a surface, with various interaction energies.
+
 import time,sys, math, gc
 from math import log, sqrt, pow,exp
 import random, numpy
